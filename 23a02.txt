@@ -1,2 +1,6 @@
 DEVNET 23A02
+<<<<<<< HEAD
 
+=======
+add information at 19h30 6/7/2023
+>>>>>>> parent of d5b87f0 (Update 23a02.txt)
